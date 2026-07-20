@@ -1,0 +1,7 @@
+C:\Users\KARABO\source\repos\labTestProgram\bin\Debug\labTestProgram.exe.config
+C:\Users\KARABO\source\repos\labTestProgram\bin\Debug\labTestProgram.exe
+C:\Users\KARABO\source\repos\labTestProgram\bin\Debug\labTestProgram.pdb
+C:\Users\KARABO\source\repos\labTestProgram\obj\Debug\labTestProgram.csproj.AssemblyReference.cache
+C:\Users\KARABO\source\repos\labTestProgram\obj\Debug\labTestProgram.csproj.CoreCompileInputs.cache
+C:\Users\KARABO\source\repos\labTestProgram\obj\Debug\labTestProgram.exe
+C:\Users\KARABO\source\repos\labTestProgram\obj\Debug\labTestProgram.pdb
